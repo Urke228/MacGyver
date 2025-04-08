@@ -1,0 +1,8 @@
+=== POROČILO O ANALIZI PULZA ===
+Pulse ID: 696
+Peak Power: 148.0 MW
+Promptna reaktivnost ($): 2.0
+Kalibracijski faktor: 1654.45530 MW/V
+FWHM: 0.036 ms
+Released Energy: 0.005618 MW·s
+===============================

@@ -1,0 +1,23 @@
+=== POROČILO ZA VSE PULZE ===
+
+Pulse ID: 696
+  Peak Power: 148.0 MW
+  Reaktivnost ($): 2.0
+  Kalibracijski faktor: 1502.02880 MW/V
+  FWHM: 38.275 ms
+  Released Energy: 6.464553 MW·s
+----------------------------------------
+Pulse ID: 701
+  Peak Power: 103.0 MW
+  Reaktivnost ($): 1.9
+  Kalibracijski faktor: 1323.39875 MW/V
+  FWHM: 45.092 ms
+  Released Energy: 5.337005 MW·s
+----------------------------------------
+Pulse ID: 702
+  Peak Power: 139.4 MW
+  Reaktivnost ($): 2.0
+  Kalibracijski faktor: 1324.37136 MW/V
+  FWHM: 39.324 ms
+  Released Energy: 6.278999 MW·s
+----------------------------------------
